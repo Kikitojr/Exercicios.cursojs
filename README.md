@@ -1,1 +1,1 @@
-# Exercicios.cursojs
+# Exercicios do Curso de JS
