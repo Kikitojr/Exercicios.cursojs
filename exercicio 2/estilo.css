@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(50, 120, 161);
+    font: normal 15pt arial; /* Ou font-family */
+    /* font-family: sans-serif; */
+}
+header {
+    color: rgb(20, 45, 46);
+    text-align: center;
+}
+section{
+    box-shadow: 5px 5px 10px #888888;
+    background-color: aliceblue;
+    border-radius: 10px; 
+    padding: 15px;
+    width: 500px;
+    margin:auto
+    
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+footer{
+    color: #142d2e;
+    text-align: center;
+    font-style: italic;
+}
